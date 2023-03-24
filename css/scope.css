@@ -1,0 +1,28 @@
+*{
+  box-sizing: border-box;
+}
+
+h1{
+text-align: center;
+font-weight: bold;
+font-size: 4rem;
+}
+
+.box{
+height:100px;
+width:40%;
+margin-left:22%;
+margin-top:16%;
+}
+
+body{
+background: url(..//image/pink.webp);
+background-repeat: no-repeat;
+background-size: 100%;
+}
+
+h2{
+margin-left:22%;
+font-size:3rem;
+font-weight: bolder;
+}
